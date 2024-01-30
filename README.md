@@ -6,7 +6,7 @@ Scripts and presentations of the single cell course <br>
 4. samtoolsfilter.sh: sam tools filter filters the reads <br>
 5. stringtie: uses a genome-guided transcriptome assembly approach along with concepts from de novo genome assembly to improve transcript assembly <br>
 6. augustus performs a ab initio gene prediction output<br> 
-7. Rhistory.sh
+7. Rhistory.sh documents my Principal Components Analysis
 8. cellranger.sh processes and analyzes single-cell RNA sequencing data.
 9. emapper.sh: is a tool for fast functional annotation of novel sequences
 10. featureCounts.sh: counts mapped reads for genomic features such as genes, exons, promoter, gene bodies, genomic bins and chromosomal locations
