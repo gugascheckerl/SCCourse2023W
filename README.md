@@ -11,4 +11,4 @@ Scripts and presentations of the single cell course <br>
 9. emapper.sh: is a tool for fast functional annotation of novel sequences
 10. featureCounts.sh: counts mapped reads for genomic features such as genes, exons, promoter, gene bodies, genomic bins and chromosomal locations
 11. interproscan.sh: scans sequences against member database signatures
-12. scripts160124.sh
+12. scripts160124.sh: Documentation of transdecoder use on the 16th of January
