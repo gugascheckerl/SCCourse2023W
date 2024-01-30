@@ -6,3 +6,9 @@ Scripts and presentations of the single cell course <br>
 4. samtoolsfilter.sh: sam tools filter filters the reads <br>
 5. stringtie: stringtie <br>
 6. augustus performs a ab initio gene prediction output<br> 
+7. Rhistory.sh
+8. cellranger.sh
+9. emapper.sh
+10. featureCounts.sh
+11. interproscan
+12. scripts160124.sh
